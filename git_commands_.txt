@@ -26,4 +26,4 @@ git push origin master
 clear
 
 
-this is some new changes
+This is the new change
